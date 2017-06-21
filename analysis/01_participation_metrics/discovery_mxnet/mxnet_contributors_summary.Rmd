@@ -1,0 +1,164 @@
+---
+title: "MxNet Contributor Summary"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r includes, echo=FALSE}
+library(ggplot2)
+library(dplyr)
+```
+
+```{r mxnet_actors, echo=FALSE}
+mxnet_actors_original <- read.csv("mxnet_actor_type_summary.csv")
+
+mxnet_actors <- mxnet_actors_original %>%
+  mutate(
+    num_events = ifelse(event_type == "WatchEvent", 1, num_events),
+    num_events_log = ifelse(event_type == "WatchEvent", 0, num_events_log)
+  )
+```
+
+```{r mxnet_actors_type_summary, echo=FALSE}
+ggplot(data = mxnet_actors,
+       aes(
+         x = factor(num_events_log),
+         fill = event_type
+         )
+       ) +
+  geom_bar(position="dodge")
+
+ggplot(data = mxnet_actors %>% filter(event_type != "WatchEvent"),
+       aes(
+         x = factor(num_events_log),
+         fill = event_type
+         )
+       ) +
+  geom_bar(position="dodge")
+
+ggplot(data = mxnet_actors %>% filter(num_events_log > 0),
+       aes(
+         x = factor(num_events_log),
+         fill = event_type
+         )
+       ) +
+  geom_bar(position="dodge")
+
+```
+
+```{r event_type_freq, echo=FALSE}
+
+mxnet_actors_type_freq <- mxnet_actors %>% 
+  group_by(actor_login) %>%
+  mutate(
+    num_event_types = n()
+  )
+
+ggplot(data = mxnet_actors_type_freq,
+       aes(x = factor(num_event_types))) +
+  geom_bar()
+
+mxnet_actors_type_freq_no_watch <- mxnet_actors %>%
+  filter(event_type != "WatchEvent") %>%
+  group_by(actor_login) %>%
+  mutate(
+    num_event_types = n()
+  )
+
+ggplot(data = mxnet_actors_type_freq_no_watch,
+       aes(
+         x = factor(num_event_types),
+         fill = factor(num_events_log)
+         )
+       ) +
+  geom_bar(position="dodge")
+
+ggplot(data = mxnet_actors_type_freq_no_watch,
+       aes(x = factor(num_event_types), fill=event_type)) +
+  geom_bar(position="dodge")
+
+```
+
+```{r top_actors, echo=FALSE}
+
+mxnet_top_actors <-  mxnet_actors_type_freq_no_watch %>% filter(num_event_types > 1 & num_events_log > 0)
+
+ggplot(data = mxnet_top_actors,
+       aes(x = factor(num_event_types), fill=event_type)) +
+  geom_bar(position="dodge") +
+  xlab("Event Types per Contributor") +
+  ylab("Contributors")
+
+ggsave("top_event_types_by_type_freq.png")
+
+ggplot(data = mxnet_top_actors,
+       aes(x = factor(num_events_log), fill=event_type)) +
+  geom_bar(position="dodge") +
+  xlab("Events per Contributor (Log)") +
+  ylab("Contributors")
+
+ggsave("top_event_types_by_num_events_freq.png")
+
+```
+
+```{r top_actors_summary, echo=FALSE}
+
+mxnet_top_actors_summary <- mxnet_top_actors %>%
+  group_by(actor_login) %>%
+  summarise(num_events = sum(num_events),
+            num_events_log = round(log(num_events)),
+            num_event_types = first(num_event_types))
+
+ggplot(data = mxnet_top_actors_summary,
+       aes(x = factor(num_event_types), fill=factor(num_events_log))) +
+  geom_bar(position="dodge") +
+  xlab("Events Types per Contributor") +
+  ylab("Contributors")
+
+ggplot(data = mxnet_top_actors_summary,
+       aes(x = factor(num_events_log), fill=factor(num_event_types))) +
+  geom_bar(position="dodge") +
+  xlab("Events per Contributor (Log)") +
+  ylab("Contributors")
+
+```
+
+```{r, include=FALSE}
+write.csv(mxnet_top_actors_summary$actor_login, "mxnet_top_actors.csv")
+```
+
+```{r actors_ghapi, echo=FALSE}
+ghapi_mxnet_actors <- read.csv("ghapi_mxnet_actors.csv", na.strings="")
+```
+
+```{r echo=FALSE}
+mxnet_actors_merge <- merge(ghapi_mxnet_actors, mxnet_top_actors_summary, 
+                      by.x="login", by.y="actor_login", all=TRUE)
+
+ggplot(data = mxnet_actors_merge,
+       aes(x = company_adj, fill=factor(num_events_log))) +
+  geom_bar(position="dodge") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+  xlab("Company") +
+  ylab("Contributors")
+
+ggsave("top_actors_company_profile_na.png")
+
+ggplot(data = mxnet_actors_merge %>% filter(!is.na(company_adj)),
+       aes(x = company_adj, fill=factor(num_events_log))) +
+  geom_bar(position="dodge") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+  xlab("Company") +
+  ylab("Contributors")
+
+ggsave("top_actors_company_profile.png")
+```
+
+
+```{r include=FALSE}
+write.csv(mxnet_actors_merge, "mxnet_top_actors_merge.csv", na = "")
+```
+
