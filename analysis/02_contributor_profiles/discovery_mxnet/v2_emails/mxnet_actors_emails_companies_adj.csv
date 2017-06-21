@@ -1,0 +1,957 @@
+login,email,host,company,company_adj,company_type
+besirkurtulmus,besir@algorithmia.com,algorithmia.com,@algorithmiaio,algorithmia,corp
+besirkurtulmus,besirkurtulmus@gmail.com,gmail.com,@algorithmiaio,algorithmia,corp
+KellenSunderland,kellens@amazon.com,amazon.com,@amzn,amazon,corp
+KellenSunderland,kellen.sunderland@gmail.com,gmail.com,@amzn,amazon,corp
+shahrajat,rajat.shah200792@gmail.com,gmail.com,@amzn,amazon,corp
+mhall119,mhall119@gmail.com,gmail.com,@CanonicalLtd ,canonical,corp
+mhall119,mhall119@ubuntu.com,ubuntu.com,@CanonicalLtd ,canonical,corp
+fionnan,fionnan@cilabs.com,cilabs.com,@CurrencyFair,currencyfair,corp
+fionnan,fionnan.alt@gmail.com,gmail.com,@CurrencyFair,currencyfair,corp
+fionnan,altmullf@tcd.ie,tcd.ie,@CurrencyFair,currencyfair,corp
+fionnan,fionnan@users.noreply.github.com,users.noreply.github.com,@CurrencyFair,currencyfair,corp
+ssoi,sameer@driver.xyz,driver.xyz,@drivergroup,drivergroup,corp
+ssoi,sameersoi@gmail.com,gmail.com,@drivergroup,drivergroup,corp
+Yangqing,jiayq@eecs.berkeley.edu,eecs.berkeley.edu,@facebook ,facebook,corp
+Yangqing,jiayq@fb.com,fb.com,@facebook ,facebook,corp
+Yangqing,jiayq84@gmail.com,gmail.com,@facebook ,facebook,corp
+ppwwyyxx,ppwwyyxxc@gmail.com,gmail.com,@fairinternal ,fairinternal,corp
+ckomaki,komakichihiro@gmail.com,gmail.com,@indeedeng,indeed,corp
+miguelgfierro,miguelgfierro@gmail.com,gmail.com,@Microsoft ,microsoft,corp
+miguelgfierro,miguelgfierro@users.noreply.github.com,users.noreply.github.com,@Microsoft ,microsoft,corp
+mkolod,mkolod@gmail.com,gmail.com,@NVIDIA,nvidia,corp
+ptrendx,ptrendx@gmail.com,gmail.com,@NVIDIA ,nvidia,corp
+ptrendx,ptredak@nvidia.com,nvidia.com,@NVIDIA ,nvidia,corp
+vchuravy,v.churavy@gmail.com,gmail.com,@oist ,oist,corp
+vchuravy,vchuravy@users.noreply.github.com,users.noreply.github.com,@oist ,oist,corp
+burness,burness1990@gmail.com,gmail.com,@Tencent,tencent,corp
+burness,dss_1990@sina.com,sina.com,@Tencent,tencent,corp
+lisabug,luyuanqin09@gmail.com,gmail.com,@TuSimple ,tusimple,corp
+lvaleriu,lacatusu.valeriu@gmail.com,gmail.com,21Off,21off,corp
+zihaolucky,zihaolucky@gmail.com,gmail.com,Alibaba Group,alibaba,corp
+zhenwendai,zhenwend@amazon.co.uk,amazon.co.uk,Amazon,amazon,corp
+mli,muli@cs.cmu.edu,cs.cmu.edu,Amazon,amazon,corp
+geoalgo,david.salinas@ens-lyon.org,ens-lyon.org,Amazon,amazon,corp
+madjam,madan.jampani@gmail.com,gmail.com,Amazon,amazon,corp
+mli,limu.cn@gmail.com,gmail.com,Amazon,amazon,corp
+madjam,madan@onlab.us,onlab.us,Amazon,amazon,corp
+geoalgo,geoalgo@users.noreply.github.com,users.noreply.github.com,Amazon,amazon,corp
+madjam,madjam@users.noreply.github.com,users.noreply.github.com,Amazon,amazon,corp
+vafl,vafl@users.noreply.github.com,users.noreply.github.com,Amazon,amazon,corp
+zhenwendai,zhenwendai@users.noreply.github.com,users.noreply.github.com,Amazon,amazon,corp
+asmushetzel,asmushetzel@yahoo.de,yahoo.de,amazon,amazon,corp
+cjolivier01,coolivie@amazon.com,amazon.com,Amazon Web Services,amazon,corp
+leopd,leodirac@amazon.com,amazon.com,Amazon Web Services,amazon,corp
+cjolivier01,cjolivier01@gmail.com,gmail.com,Amazon Web Services,amazon,corp
+leopd,leo.dirac@gmail.com,gmail.com,Amazon Web Services,amazon,corp
+thatindiandude,thatindiandude78@gmail.com,gmail.com,Amazon Web Services,amazon,corp
+thatindiandude,santoshm@umich.edu,umich.edu,Amazon Web Services,amazon,corp
+leopd,leopd@users.noreply.github.com,users.noreply.github.com,Amazon Web Services,amazon,corp
+sandeep-krishnamurthy,sandeep.krishna98@gmail.com,gmail.com,Amazon Web Services - Machine Learning,amazon,corp
+metrofun,gmetrofun@gmail.com,gmail.com,"Amazon, ex-Nokia, Yandex",amazon,corp
+antinucleon,antinucleon@gmail.com,gmail.com,Apple,apple,corp
+antinucleon,antinucleon@users.noreply.github.com,users.noreply.github.com,Apple,apple,corp
+Tiamaty,juliocvf@poli.ufrj.br,poli.ufrj.br,Arcedos,arcedos,corp
+GuohongLi,liguohong_edward@163.com,163.com,BaiDu,baidu,corp
+sighingnow,13061210@buaa.edu.cn,buaa.edu.cn,Beihang University,beihang,edu
+sighingnow,hetao@buaa.edu.cn,buaa.edu.cn,Beihang University,beihang,edu
+sighingnow,sighingnow@gmail.com,gmail.com,Beihang University,beihang,edu
+wranglerwong,mumarenhuang@163.com,163.com,Beijing University of Posts and Telecommunications,bupt,edu
+zhouphd,zhouphd@users.noreply.github.com,users.noreply.github.com,BJTU,bjtu,edu
+everal,everal_feng@163.com,163.com,BUAA,buaa,edu
+everal,everal.feng@gmail.com,gmail.com,BUAA,buaa,edu
+huangzehao,huangzehao@outlook.com,outlook.com,BUAA,buaa,edu
+huangzehao,huangzehao@users.noreply.github.com,users.noreply.github.com,BUAA,buaa,edu
+bearsroom,nyinghongli@gmail.com,gmail.com,ByteDance Inc. (toutiao.com),bytedance,corp
+bearsroom,yinghong.li@outlook.com,outlook.com,ByteDance Inc. (toutiao.com),bytedance,corp
+alextnewman,alextnewman@users.noreply.github.com,users.noreply.github.com,"Canonical, Ltd.",canonical,corp
+alextnewman,anewman@wolfram.com,wolfram.com,"Canonical, Ltd.",canonical,corp
+Martini09,yuanye711@163.com,163.com,Carnegie Mellon University,cmu,edu
+cuihenggang,cuihenggang@gmail.com,gmail.com,Carnegie Mellon University,cmu,edu
+eric-haibin-lin,linhaibin.eric@gmail.com,gmail.com,Carnegie Mellon University,cmu,edu
+lazywei,jrweizhang@gmail.com,gmail.com,Carnegie Mellon University,cmu,edu
+lazywei,bert.cwchang@gmail.com,gmail.com,Carnegie Mellon University,cmu,edu
+Martini09,yeyuan9393@gmail.com,gmail.com,Carnegie Mellon University,cmu,edu
+HrWangChengdu,hrwangchengdu@hotmail.com,hotmail.com,Carnegie Mellon University,cmu,edu
+Martini09,martini09@users.noreply.github.com,users.noreply.github.com,Carnegie Mellon University,cmu,edu
+eaplatanios,e.a.platanios@gmail.com,gmail.com,Carnegie Mellon University and Cubist Systematic Strategies,cmu,edu
+eaplatanios,anthonyplat719791@hotmail.com,hotmail.com,Carnegie Mellon University and Cubist Systematic Strategies,cmu,edu
+ibyte2011,695550012@qq.com,qq.com,CAS,cas,corp
+thsavage,ts2468@nyu.edu,nyu.edu,CBRE Econometric Advisors,cbre,edu
+Gelu74,lopezurrutia@gmail.com,gmail.com,Centro Oceanografico de Gijon,ieo,edu
+yajiedesign,yajiedesign@gmail.com,gmail.com,China,,
+ylqfp,ylqfp@126.com,126.com,Chinese Academy of Sciences,cas,edu
+ylqfp,ylqfps@gmail.com,gmail.com,Chinese Academy of Sciences,cas,edu
+ylqfp,ylqfp@qq.com,qq.com,Chinese Academy of Sciences,cas,edu
+joebling,792680027@qq.com,qq.com,cmb,cmb,corp
+jmacglashan,jmacglashan@gmail.com,gmail.com,Cogitai,cogitai,corp
+anjishnu,anjikum@amazon.com,amazon.com,Columbia University,columbia,edu
+anjishnu,torvoraptor@gmail.com,gmail.com,Columbia University,columbia,edu
+anjishnu,anjishnu.kr@gmail.com,gmail.com,Columbia University,columbia,edu
+windywinter,allan@ream.at,ream.at,Cornell,cornell,edu
+xlvector,xlvector@gmail.com,gmail.com,"CreditEase, Hulu",creditease,corp
+mittlin,mittlxm@gmail.com,gmail.com,CSU,csu,edu
+mittlin,1121568239@qq.com,qq.com,CSU,csu,edu
+dansbecker,dansbecker@gmail.com,gmail.com,DataRobot,datarobot,corp
+zachmayer,zach.mayer@gmail.com,gmail.com,DataRobot,datarobot,corp
+Ceolium,danielkang357@gmail.com,gmail.com,Daumsoft,daumsoft,corp
+wangzhangup,wangzhangup@gmail.com,gmail.com,DeepCare,deepcare,corp
+starimpact,starimpact@126.com,126.com,DeepGlint,deepclint,corp
+i-MaTh,izhangwenjie@vip.qq.com,vip.qq.com,East China Normal University,ecnu,edu
+jdchoi77,jdchoi77@gmail.com,gmail.com,Emory University,emory,edu
+jdchoi77,jdchoi77@users.noreply.github.com,users.noreply.github.com,Emory University,emory,edu
+geraint0923,geraint0923@gmail.com,gmail.com,Facebook,facebook,corp
+shenxiul,azhen9166@gmail.com,gmail.com,Facebook,facebook,corp
+shenxiul,shenxiu@stanford.edu,stanford.edu,Facebook,facebook,corp
+geraint0923,geraint0923@users.noreply.github.com,users.noreply.github.com,Facebook,facebook,corp
+M2shad0w,05zhujiahua@gmail.com,gmail.com,FireCloud,firecloud,corp
+liubenyuan,liubenyuan@gmail.com,gmail.com,FMMU,fmmu,edu
+liubenyuan,liubenyuan@users.noreply.github.com,users.noreply.github.com,FMMU,fmmu,edu
+hetong007,hetong007@gmail.com,gmail.com,Fortinet Inc,fortinet,corp
+birolkuyumcu,bluekid70@gmail.com,gmail.com,Freelance,self,self
+buraksarica,bsarica@hotmail.com,hotmail.com,Freelance,self,self
+ysh329,ysh329@sina.com,sina.com,freelancer,self,self
+ysh329,ysh329@users.noreply.github.com,users.noreply.github.com,freelancer,self,self
+linmx0130,linmx0130@163.com,163.com,Fudan University,fudan,edu
+ZihengJiang,ziheng@apache.org,apache.org,Fudan University,fudan,edu
+linmx0130,linmx14@fudan.edu.cn,fudan.edu.cn,Fudan University,fudan,edu
+voidrank,14307130246@fudan.edu.cn,fudan.edu.cn,Fudan University,fudan,edu
+voidrank,voidrank@gmail.com,gmail.com,Fudan University,fudan,edu
+ZihengJiang,jzhtomas@gmail.com,gmail.com,Fudan University,fudan,edu
+voidrank,452727698@qq.com,qq.com,Fudan University,fudan,edu
+sshuair,sshuair@gmail.com,gmail.com,GeoHey,geohey,corp
+sshuair,sshuair@users.noreply.github.com,users.noreply.github.com,GeoHey,geohey,corp
+jiajiechen,jiajiechen0319@gmail.com,gmail.com,Gerogia Tech (MS Computational Data Analytics),gatech,edu
+jiajiechen,jiajiechen0319@hotmail.com,hotmail.com,Gerogia Tech (MS Computational Data Analytics),gatech,edu
+Answeror,answeror@gmail.com,gmail.com,Google,google,corp
+jinfagang,nicholasjela@gmail.com,gmail.com,Google,google,corp
+lukemetz,luke.s.metz@gmail.com,gmail.com,Google Brain,google,corp
+liangfu,chenclf@gmail.com,gmail.com,Harman International,harman,corp
+liangfu,liangfu.chen@harman.com,harman.com,Harman International,harman,corp
+liangfu,liangfu.chen@nlpr.ia.ac.cn,nlpr.ia.ac.cn,Harman International,harman,corp
+svohara,sohara@digitalglobe.com,digitalglobe.com,HERE,,
+svohara,svohara@gmail.com,gmail.com,HERE,,
+DickJC123,dick.carter@comcast.net,comcast.net,Hewlett Packard Enterprises,hpe,corp
+DickJC123,dcarter@nvidia.com,nvidia.com,Hewlett Packard Enterprises,hpe,corp
+freddycct,freddycct@gmail.com,gmail.com,Hewlett Packard Labs,hpe,corp
+boliu68,6liubo8@gmail.com,gmail.com,Hong Kong University of Science and Technology,hkust,edu
+sxjscience,sxjscience001@gmail.com,gmail.com,Hong Kong University of Science and Technology,hkust,edu
+WellyZhang,wellyzhangc@gmail.com,gmail.com,Hong Kong University of Science and Technology,hkust,edu
+leezu,leonard@lausen.nl,lausen.nl,Hong Kong University of Science and Technology,hkust,edu
+sxjscience,xshiab@ust.hk,ust.hk,Hong Kong University of Science and Technology,hkust,edu
+xiandong79,xqiad@connect.ust.hk,connect.ust.hk,Hong Kong University of Science and Technology (HKUST),hkust,edu
+itsarbit,is.arbitt@gmail.com,gmail.com,HTC,htc,corp
+itsarbit,arbit30719@gmail.com,gmail.com,HTC,htc,corp
+itsarbit,itsarbit@gmail.com,gmail.com,HTC,htc,corp
+luoyetx,luoyetx@gmail.com,gmail.com,Huazhong University of Science and Technology,hust,edu
+yiyusheng,yiyusheng.hust@gmail.com,gmail.com,Huazhong University of Science and Technology,hust,edu
+luoyetx,1062018952@qq.com,qq.com,Huazhong University of Science and Technology,hust,edu
+luoyetx,luoyetx@users.noreply.github.com,users.noreply.github.com,Huazhong University of Science and Technology,hust,edu
+artzers,263699527@qq.com,qq.com,HUST,hust,edu
+JeanKossaifi,jean.kossaifi@gmail.com,gmail.com,iBug - Imperial College London,ibug,corp
+EricFisher,mingjie.xing@gmail.com,gmail.com,ICT,ict,corp
+thirdwing,qkou@qkou.info,qkou.info,Indiana University,indiana,edu
+thirdwing,qkou@umail.iu.edu,umail.iu.edu,Indiana University,indiana,edu
+MasKong,leemasterk@outlook.com,outlook.com,"Institute of Conputing Technology, Chinese Academy of Science",cas,edu
+qiyuangong,qiyuangong@gmail.com,gmail.com,Intel,intel,corp
+qiyuangong,qiyuan.gong@intel.com,intel.com,Intel,intel,corp
+zhenlinluo,zhenlin.luo@intel.com,intel.com,Intel,intel,corp
+ykim362,young.jin.kim@intel.com,intel.com,Intel Corporation,intel,corp
+dmmiller612,dmmiller612@gmail.com,gmail.com,Interactive Intelligence,inin,corp
+dmmiller612,derek.miller@inin.com,inin.com,Interactive Intelligence,inin,corp
+adithya-subramanian,adisubbu86@gmail.com,gmail.com,Intern @Wingify,wingify,corp
+austingg,wangyubin19890515@163.com,163.com,JiuYan Tech.,jiuyan,corp
+austingg,wangyubin198905@gmail.com,gmail.com,JiuYan Tech.,jiuyan,corp
+ctongfei,ctongfei@gmail.com,gmail.com,Johns Hopkins University,jhu,edu
+danpovey,dpovey@gmail.com,gmail.com,Johns Hopkins University,jhu,edu
+ctongfei,tongfei@jhu.edu,jhu.edu,Johns Hopkins University,jhu,edu
+ctongfei,ctongfei@users.noreply.github.com,users.noreply.github.com,Johns Hopkins University,jhu,edu
+MU001999,mu001999@outlook.com,outlook.com,Jusot,jusot,corp
+alvinjamur,al_v@mindspring.com,mindspring.com,Katonah Capital Partners,katonah,corp
+salemmohammed,salem055@gmail.com,gmail.com,KKU,kku,edu
+jaredlander,info@jaredlander.com,jaredlander.com,Lander Analytics,self,self
+philipskokoh,philipskokoh@gmail.com,gmail.com,Living Analytics Research Centre ,smu,edu
+philipskokoh,philipskokoh@users.noreply.github.com,users.noreply.github.com,Living Analytics Research Centre ,smu,edu
+guoquan,guoquanscu@gmail.com,gmail.com,Machine Intelligence Laboratory,scu,edu
+acgtyrant,acgtyrant@gmail.com,gmail.com,mapbar,mapbar,corp
+EthanMacdonald,ethan.bryce.macdonald@gmail.com,gmail.com,McGill University,mcgill,edu
+EthanMacdonald,ethanmacdonald@users.noreply.github.com,users.noreply.github.com,McGill University,mcgill,edu
+smbatchou,smbatchou@users.noreply.github.com,users.noreply.github.com,Mcgill University Health Centre Research Institute,mcgill,edu
+smbatchou,stephabio@yahoo.ca,yahoo.ca,Mcgill University Health Centre Research Institute,mcgill,edu
+jellchou,jian.zhou.cool@gmail.com,gmail.com,Meitu,meitu,corp
+nicklhy,nicklhy@gmail.com,gmail.com,"Meitu, Inc",meitu,corp
+Lisz1024,308141427@qq.com,qq.com,meituan.com,meituan,corp
+SkidanovAlex,shd@bk.ru,bk.ru,MemSQL,memsql,corp
+SkidanovAlex,skidanov.alexander@gmail.com,gmail.com,MemSQL,memsql,corp
+CodingCat,zhunansjtu@gmail.com,gmail.com,Microsoft,microsoft,corp
+leoxiaobin,xiaobin0725@gmail.com,gmail.com,Microsoft,microsoft,corp
+guolinke,guoke@microsoft.com,microsoft.com,Microsoft,microsoft,corp
+ilkarman,ilkarman@microsoft.com,microsoft.com,Microsoft,microsoft,corp
+lofrank,lofrank@outlook.com,outlook.com,Microsoft,microsoft,corp
+CodingCat,codingcat@users.noreply.github.com,users.noreply.github.com,Microsoft,microsoft,corp
+guolinke,i@yumumu.me,yumumu.me,Microsoft,microsoft,corp
+mebjas,minhazav@gmail.com,gmail.com,Microsoft ,microsoft,corp
+mebjas,mebjas@gmail.com,gmail.com,Microsoft ,microsoft,corp
+Palang2014,hamidp@ece.ubc.ca,ece.ubc.ca,Microsoft Research,microsoft,corp
+Palang2014,palang2014@users.noreply.github.com,users.noreply.github.com,Microsoft Research,microsoft,corp
+Luo-Liang,llmainland@live.cn,live.cn,"Microsoft, AMD",microsoft,corp
+dnaase,lyping1986@gmail.com,gmail.com,MIT,mit,edu
+pluskid,pluskid@gmail.com,gmail.com,MIT,mit,edu
+whr94621,whr94621@163.com,163.com,Nanjing University,nanjing,edu
+JeffDong,coast.caryopsis@gmail.com,gmail.com,Nanjing University,nanjing,edu
+whr94621,whr94621@gmail.com,gmail.com,Nanjing University,nanjing,edu
+koallen,weifengzi2009@gmail.com,gmail.com,Nanyang Tech. Univ.,nanyang,edu
+changcheng1987,1987ccpacer@163.com,163.com,"National Center for Protein Sciences (Beijing), Beijing Proteome Research Center",bprc,edu
+NamLQ,namlq@users.noreply.github.com,users.noreply.github.com,National Institute of Animal Science,nias,edu
+NamLQ,chaosongma@yahoo.com,yahoo.com,National Institute of Animal Science,nias,edu
+mavenlin,mavenlin@gmail.com,gmail.com,National University of Singapore,nus,edu
+mavenlin,mavenlin@users.noreply.github.com,users.noreply.github.com,National University of Singapore,nus,edu
+xiahouzuoxin,xiahouzuoxin@163.com,163.com,Netease,netease,corp
+jermainewang,wmjlyjemaine@gmail.com,gmail.com,New York University,nyu,edu
+wellecks,wellecks@gmail.com,gmail.com,New York University,nyu,edu
+jermainewang,minjie.wang@nyu.edu,nyu.edu,New York University,nyu,edu
+were,werefluke@gmail.com,gmail.com,None,,
+hopef,512690069@qq.com,qq.com,null,,
+ap-hynninen,aphynninen@hotmail.com,hotmail.com,NVIDIA,nvidia,corp
+ap-hynninen,ahynninen@nvidia.com,nvidia.com,NVIDIA,nvidia,corp
+ap-hynninen,ap-hynninen@users.noreply.github.com,users.noreply.github.com,NVIDIA,nvidia,corp
+ZijiaLewisLu,zl1052@nyu.edu,nyu.edu,NYU Shanghai,nyu,edu
+msdw,msdw@free.fr,free.fr,Orange,orange,corp
+zmonoid,zmonoid@gmail.com,gmail.com,Panasonic R&D Center,panasonic,corp
+bruinxiong,bruinxiongmac@gmail.com,gmail.com,Panasonic R&D Center Singapore,panasonic,corp
+GravApple,leo.liyunzhu@gmail.com,gmail.com,Peking University,peking,edu
+ziyeqinghan,ziyeqinghan@gmail.com,gmail.com,Peking University,peking,edu
+coder-james,1120598207@qq.com,qq.com,Peking University,peking,edu
+AlexIoannides,alex.ioannides@perfectchannel.com,perfectchannel.com,Perfect Channel,perfectchannel,corp
+AlexIoannides,alex.ioannides@yahoo.co.uk,yahoo.co.uk,Perfect Channel,perfectchannel,corp
+lyttonhao,lyttonhao@gmail.com,gmail.com,PKU,pku,edu
+lyttonhao,lyttonhao@users.noreply.github.com,users.noreply.github.com,PKU,pku,edu
+marcociccone,marcociccone88@gmail.com,gmail.com,Politecnico di Milano,polimi,edu
+marcociccone,marco.ciccone@mail.polimi.it,mail.polimi.it,Politecnico di Milano,polimi,edu
+marcociccone,marco.ciccone@me.com,me.com,Politecnico di Milano,polimi,edu
+marcociccone,marco.ciccone@polimi.it,polimi.it,Politecnico di Milano,polimi,edu
+jingpengwu,jingpeng.wu@gmail.com,gmail.com,Princeton University,princeton,edu
+paulsendavidjay,paulsendavidjay@gmail.com,gmail.com,Prosper,prosper,corp
+javelinjs,javelinjs@163.com,163.com,Qihoo 360,360,corp
+javelinjs,javelinjs@gmail.com,gmail.com,Qihoo 360,360,corp
+liyuance,liyuance@360.cn,360.cn,Qihoo360,360,corp
+liyuance,liyuance@gmail.com,gmail.com,Qihoo360,360,corp
+hiraditya,hiraditya@gmail.com,gmail.com,Qualcomm,qualcomm,corp
+zhangqianhui,1632206636@qq.com,qq.com,ShanDong University,shandong,edu
+lan2720,wangjianan527@gmail.com,gmail.com,Shanghai Jiao Tong University,sjtu,edu
+weijianwen,weijianwen@gmail.com,gmail.com,Shanghai Jiao Tong University,sjtu,edu
+diggerdu,diggerdu@hotmail.com,hotmail.com,Shanghai University,shanghai,edu
+diggerdu,diggerdu@users.noreply.github.com,users.noreply.github.com,Shanghai University,shanghai,edu
+allankevinrichie,allankevinrichie@gmail.com,gmail.com,Shanghaitech University,shanghaitech,edu
+bertjiazheng,bert.j.zheng@outlook.com,outlook.com,ShanghaiTech University,shanghaitech,edu
+allankevinrichie,zhangzh@shanghaitech.edu.cn,shanghaitech.edu.cn,Shanghaitech University,shanghaitech,edu
+shesung,shesung.sam@gmail.com,gmail.com,shesung.net,,
+msollami,michaelsollami@gmail.com,gmail.com,Shutterstock,shutterstock,corp
+NoListen,listenonepiece@gmail.com,gmail.com,SJTU,sjtu,edu
+xinghedyc,233934081@qq.com,qq.com,sjtu,sjtu,edu
+xinghedyc,xinghedyc@sjtu.edu.cn,sjtu.edu.cn,sjtu,sjtu,edu
+NoListen,nolisten@users.noreply.github.com,users.noreply.github.com,SJTU,sjtu,edu
+flyingzhao,1142749677@qq.com,qq.com,Southeast University,southeast,edu
+flyingzhao,flyingzhao@users.noreply.github.com,users.noreply.github.com,Southeast University,southeast,edu
+hotpxl,kevinleeone@gmail.com,gmail.com,Stanford University,stanford,edu
+hotpxl,hotpxless@gmail.com,gmail.com,Stanford University,stanford,edu
+StevenLOL,stevenlol@qq.com,qq.com,Steven,,
+christallire,christallire@gmail.com,gmail.com,Studio Mono,studiomono,corp
+Ldpe2G,liangdepeng@gmail.com,gmail.com,Sun Yat-sen University,sysu,edu
+flyingmouse,haoming.exe@gmail.com,gmail.com,Supélec,supelec,edu
+zeeeyang,chihyangteng@gmail.com,gmail.com,SUTD,sutd,edu
+Geekking,geektimelin@gmail.com,gmail.com,SYSU,sysu,edu
+yoosan,zhouyao@mail2.sysu.edu.cn,mail2.sysu.edu.cn,SYSU,sysu,edu
+yoosan,576948259@qq.com,qq.com,SYSU,sysu,edu
+superzrx,superzrx@gmail.com,gmail.com,Tencent,tencent,corp
+wlike,xwf1788@gmail.com,gmail.com,Tencent,tencent,corp
+superzrx,ruixinzhang@tencent.com,tencent.com,Tencent,tencent,corp
+JeffHebert,jeff-hebert@msn.com,msn.com,Texas Instruments,txinstruments,corp
+JeffHebert,jeffhebert@users.noreply.github.com,users.noreply.github.com,Texas Instruments,txinstruments,corp
+flyers,lisiyi.zju@gmail.com,gmail.com,The Hong Kong University of Science & Technology,hkust,edu
+monaen,naen.mong@gmail.com,gmail.com,The University of Hong Kong,uhk,edu
+shengwa,sheng.wang@mavs.uta.edu,mavs.uta.edu,The University of Texas at Arlington,uta,edu
+Hebali,patchiehebron@gmail.com,gmail.com,Think Foil,thinkfoil,corp
+Hebali,github@thinkfoil.com,thinkfoil.com,Think Foil,thinkfoil,corp
+ruotianluo,rluo@ttic.edu,ttic.edu,Toyota Technological Institute at Chicago,ttic,edu
+wangg12,guwang12@qq.com,qq.com,Tsinghua University,tsinghua,edu
+wangg12,wangg12@users.noreply.github.com,users.noreply.github.com,Tsinghua University,tsinghua,edu
+vincentfung13,vincent.fung13@gmail.com,gmail.com,Tuputech,tuputech,corp
+vincentfung13,vincentfung13@users.noreply.github.com,users.noreply.github.com,Tuputech,tuputech,corp
+dsqx71,dsqx71@gmail.com,gmail.com,tusimple,tusimple,corp
+erogol,erogol@hotmail.com,hotmail.com,TwentyBN,twentybn,corp
+cleardusk,guojianzhu1994@foxmail.com,foxmail.com,UCAS,ucas,edu
+cleardusk,1165046167@qq.com,qq.com,UCAS,ucas,edu
+xzqjack,xzqjack@gmail.com,gmail.com,UESTC,uestc,edu
+xzqjack,xzqjack@hotmail.com,hotmail.com,UESTC,uestc,edu
+jdeligt,joepio@gmail.com,gmail.com,University Medical Center Utrecht,umcutrecht,edu
+rldotai,rldot41@gmail.com,gmail.com,University of Alberta,ualberta,edu
+rldotai,rldotai@users.noreply.github.com,users.noreply.github.com,University of Alberta,ualberta,edu
+n1kt0,nikita.balyschew@googlemail.com,googlemail.com,University of Applied Science Darmstadt,h-da,edu
+n1kt0,n1kt0@users.noreply.github.com,users.noreply.github.com,University of Applied Science Darmstadt,h-da,edu
+ChrisYang,yanghengnudt@gmail.com,gmail.com,University of Cambridge,cam,edu
+mzhang001,zhangmeng1010@gmail.com,gmail.com,University of Cambridge,cam,edu
+JunWorks,majun0118@gmail.com,gmail.com,University of Illinois,illinois,edu
+khalida,khalid.a.abdulla@gmail.com,gmail.com,University of Melbourne,unimelb,edu
+zhreshold,cheungchih@gmail.com,gmail.com,University of Missouri-Columbia,missouri,edu
+zhreshold,cheungchih@gmail.com,gmail.com,University of Missouri-Columbia,missouri,edu
+zhreshold,cheungchih@gmail.com,gmail.com,University of Missouri-Columbia,missouri,edu
+zhreshold,cheungchih@gmail.com,gmail.com,University of Missouri-Columbia,unc,edu
+bdlacree,brice.acree@unc.edu,unc.edu,University of North Carolina at Chapel Hill,unc,edu
+bittnt,kylezheng04@gmail.com,gmail.com,University of Oxford,oxford,edu
+liyin2015,liyin199102@gmail.com,gmail.com,University of Texas at Arlington,uta,edu
+Viswa14,viswa1410@gmail.com,gmail.com,University of Texas at Arlington,uta,edu
+liyin2015,li.yin@mavs.uta.edu,mavs.uta.edu,University of Texas at Arlington,uta,edu
+mjamroz,michal@yerbamate.com.pl,yerbamate.com.pl,University of Warsaw,uta,edu
+piiswrong,eric.jy.xie@gmail.com,gmail.com,University of Washington,uw,edu
+piiswrong,piiswrong@gmail.com,gmail.com,University of Washington,uw,edu
+tqchen,tianqi.tchen@gmail.com,gmail.com,University of Washington,uw,edu
+yuweiw823,yuweiw823@gmail.com,gmail.com,University of Washington,uw,edu
+piiswrong,piiswrong@users.noreply.github.com,users.noreply.github.com,University of Washington,uw,edu
+tqchen,tqchen@users.noreply.github.com,users.noreply.github.com,University of Washington,uw,edu
+michaelmior,michael.mior@gmail.com,gmail.com,University of Waterloo,uwaterloo,edu
+michaelmior,mmior@uwaterloo.ca,uwaterloo.ca,University of Waterloo,uwaterloo,edu
+vra,nafengjingtaimei@163.com,163.com,USTC,ustc,edu
+vra,vra000@163.com,163.com,USTC,ustc,edu
+vra,wangyf11@mail.ustc.edu.cn,mail.ustc.edu.cn,USTC,ustc,edu
+vra,vra@users.noreply.github.com,users.noreply.github.com,USTC,ustc,edu
+debasish83,debasish.das@one.verizon.com,one.verizon.com,Verizon,verizon,corp
+jiapei100,jp4work@gmail.com,gmail.com,Vision Open,vision,corp
+kadeng,kai.londenberg@googlemail.com,googlemail.com,Volkswagen AG,volkswagon,corp
+sergeykolychev,sergeykolychev.github@gmail.com,gmail.com,Whitehat Security https://www.whitehatsec.com/,whitehat,corp
+sbodenstein,sebastianbod@gmail.com,gmail.com,Wolfram Research,wolfram,corp
+taliesinb,taliesinb@gmail.com,gmail.com,Wolfram Research,wolfram,corp
+zwx8981,411965697@qq.com,qq.com,Wuhan University,wuhan,edu
+sun9700,sun9700@foxmail.com,foxmail.com,www.bjfu.edu.cn,bjfu,edu
+sunshineInmoon,451413025@qq.com,qq.com,Xidian University,xidian,edu
+xioryu,xioryutor@gmail.com,gmail.com,XJTU,xjtu,edu
+freesouls,declanxu@126.com,126.com,Zhejiang University,zju,edu
+freesouls,declanxu@gmail.com,gmail.com,Zhejiang University,zju,edu
+zlmzju,zlmzju@gmail.com,gmail.com,Zhejiang University,zju,edu
+Orpine,orpine@msn.com,msn.com,Zhejiang University,zju,edu
+zlmzju,zlmzju@users.noreply.github.com,users.noreply.github.com,Zhejiang University,zju,edu
+ppaanngggg,hantian.pang@gmail.com,gmail.com,zhejiang unversity,zju,edu
+anxingle,anxingle@163.com,163.com,中科院自动化所,cas,edu
+anxingle,anxingle820@gmail.com,gmail.com,中科院自动化所,cas,edu
+sethbrin,sethbrin@gmail.com,gmail.com,中科院计算所,cas,edu
+sethbrin,zengping@ncic.ac.cn,ncic.ac.cn,中科院计算所,cas,edu
+bravomikekilo,bmk1221@126.com,126.com,,,
+CharlesMei,mycomputerscience@126.com,126.com,,,
+Godricly,godricly_li@126.com,126.com,,,
+II-Matto,wszbupteducn@126.com,126.com,,,
+junranhe,box0429@126.com,126.com,,,
+shiyangdaisy23,shiyangdaisy@126.com,126.com,,,
+to-shimo,toshimo@126.com,126.com,,,
+zeakey,zeakey@126.com,126.com,,,
+zhengxiawu,zhengxiawu@126.com,126.com,,,
+zhongkeli,qzk@126.com,126.com,,,
+amilyk,amily_k@163.com,163.com,,,
+back2yes,bys_buntu_01@163.com,163.com,,,
+cherishlc,lcreg163@163.com,163.com,,,
+cjfan,jasonvan@163.com,163.com,,,
+Darwin2011,lie_algebra@163.com,163.com,,,
+dengdan,dengdan890730@163.com,163.com,,,
+dkleikesa,hebeilijianzhang@163.com,163.com,,,
+EGQM,jason_mail@163.com,163.com,,,
+fanlu,fanlu7311@163.com,163.com,,,
+formath,jinpengliu@163.com,163.com,,,
+futurely,kaili_futurely@163.com,163.com,,,
+gold-mango,niansulei2007@163.com,163.com,,,
+guo253,guorui253190@163.com,163.com,,,
+hack1nt0,jealousing@163.com,163.com,,,
+Iflier,alexalf@163.com,163.com,,,
+john7farrell,xjz199273@163.com,163.com,,,
+joyivan,ivanbear@163.com,163.com,,,
+JulySouthWind,fqw.861113@163.com,163.com,,,
+kikoqiu,kikoqiu@163.com,163.com,,,
+li-haoran,guulin@163.com,163.com,,,
+lilhope,lilhope@163.com,163.com,,,
+lincolneejdk,ynylincolnthu@163.com,163.com,,,
+my777777,fxwfxz@163.com,163.com,,,
+ngmanhei,sysuwwx@163.com,163.com,,,
+niuchenglei,niu.chenglei@163.com,163.com,,,
+Orange15,gao_lch@163.com,163.com,,,
+pengpaiSH,pengpai_sh@163.com,163.com,,,
+PetroWu,wudongdeyoua@163.com,163.com,,,
+qigongsun,sunqigongwan@163.com,163.com,,,
+songtianyi,songtianyi630@163.com,163.com,,,
+WangcsShuai,wangshuai_sjtu@163.com,163.com,,,
+wanghaisheng,edwin_uestc@163.com,163.com,,,
+whaozl,whaozl@163.com,163.com,,,
+wzl12356,wzlsuccess@163.com,163.com,,,
+xtuyaowu,toyaowu@163.com,163.com,,,
+xylcbd,dahanhbm@163.com,163.com,,,
+zhubuntu,zhubuntu@163.com,163.com,,,
+zsefvlol,zsefvlol@163.com,163.com,,,
+qingqing01,dangqingqing@1ad973e4-5ce8-4261-8a94-b56d1f490c56,1ad973e4-5ce8-4261-8a94-b56d1f490c56,,,
+sifmelcara,rbdn@9mm.davy.tw,9mm.davy.tw,,,
+benqua,benoit.quartier@a3.epfl.ch,a3.epfl.ch,,,
+danimateos,daniel.mateos@amadeus.com,amadeus.com,,,
+andreaolgiati,olg@amazon.com,amazon.com,,,
+annbech,annbech@amazon.com,amazon.com,,,
+fhieber,fhieber@amazon.com,amazon.com,,,
+indhub,thangakr@amazon.com,amazon.com,,,
+lxn2,lynguyen@amazon.com,amazon.com,,,
+fhieber,fhieber@amazon.de,amazon.de,,,
+great-thoughts,g00006931@aus.edu,aus.edu,,,
+qingqing01,dangqingqing@baidu.com,baidu.com,,,
+tdomhan,tobias@bit.ly,bit.ly,,,
+lzx1413,lizuoxin@buaa.edu.cn,buaa.edu.cn,,,
+taoari,taowei@buffalo.edu,buffalo.edu,,,
+buptweixin,weixin@bupt.edu.cn,bupt.edu.cn,,,
+wsybupt,wangsy@bupt.edu.cn,bupt.edu.cn,,,
+shivarajugowda,shivshi@cisco.com,cisco.com,,,
+fhieber,hieber@cl.uni-heidelberg.de,cl.uni-heidelberg.de,,,
+arank,arankhanna@college.harvard.edu,college.harvard.edu,,,
+CXMA479,chen_yong_liang@cqu.edu.cn,cqu.edu.cn,,,
+aaronpolhamus,aaron@credijusto.com,credijusto.com,,,
+Jerryzcn,zhangz6@cs.washington.edu,cs.washington.edu,,,
+Lchiffon,langdw@ctrip.com,ctrip.com,,,
+sifmelcara,ming@culpring.com,culpring.com,,,
+sifmelcara,rbdn@culpring.com,culpring.com,,,
+carlosb1,carlosb@cvc.uab.es,cvc.uab.es,,,
+BobLiu20,liubofang@cvte.com,cvte.com,,,
+SlipknotTN,michele.toni@cynny.com,cynny.com,,,
+linkerlin,miao.lin@dianping.com,dianping.com,,,
+qz28,qz28@duke.edu,duke.edu,,,
+juliandewit,julian@dwssystemen.nl,dwssystemen.nl,,,
+jmerkow,jmerkow@eng.ucsd.edu,eng.ucsd.edu,,,
+lorismichel,loris.michel@epfl.ch,epfl.ch,,,
+CheungXu,cheungxu_0218@foxmail.com,foxmail.com,,,
+GekTo,gek_u@foxmail.com,foxmail.com,,,
+hyichao,hyichao@foxmail.com,foxmail.com,,,
+shallyan,xiaoyanict@foxmail.com,foxmail.com,,,
+Trangle,kw_w@foxmail.com,foxmail.com,,,
+0rchard,aristoego@gmail.com,gmail.com,,,
+abuccts,abuccts@gmail.com,gmail.com,,,
+Aelnabawy,aelnabwy@gmail.com,gmail.com,,,
+ahmedezzateasa,ahmedezzateasa@gmail.com,gmail.com,,,
+aileli,aileli.git@gmail.com,gmail.com,,,
+ainhoa2,ainhoa.cabetas@gmail.com,gmail.com,,,
+akaitsuki-ii,akaitsuki.ii@gmail.com,gmail.com,,,
+alex-weaver,awsweaver@gmail.com,gmail.com,,,
+alexwwang,azure.ww@gmail.com,gmail.com,,,
+alinagithub,arnauddominique.lina@gmail.com,gmail.com,,,
+ameshkoff,agrobov@gmail.com,gmail.com,,,
+andremoeller,andreymoeller@gmail.com,gmail.com,,,
+Andrjusha,andreypetrovskij@gmail.com,gmail.com,,,
+anirudh2290,anirudh2290@gmail.com,gmail.com,,,
+ascust,shentong1990@gmail.com,gmail.com,,,
+assafmus,assaf.mushinsky@gmail.com,gmail.com,,,
+Atraii,isaaccurtis1@gmail.com,gmail.com,,,
+Azure-Vani,echooatmeal@gmail.com,gmail.com,,,
+bachml,ghzeng2.718@gmail.com,gmail.com,,,
+bearnshaw,berton.earnshaw@gmail.com,gmail.com,,,
+benqua,benoit.quartier@gmail.com,gmail.com,,,
+benwu232,benwu232@gmail.com,gmail.com,,,
+bonsairobo,bonsairobo@gmail.com,gmail.com,,,
+camel007,yaozhang.chn@gmail.com,gmail.com,,,
+caprice-j,tnk.yasutaka@gmail.com,gmail.com,,,
+caprice-j,skyfly0008@gmail.com,gmail.com,,,
+carlosb1,carlos.baezruiz@gmail.com,gmail.com,,,
+CarlosUziel,cauzpema@gmail.com,gmail.com,,,
+catalystfrank,frank.wang04@gmail.com,gmail.com,,,
+cchacholiades,chris.chacholiades@gmail.com,gmail.com,,,
+chakpongchung,chakpongchung@gmail.com,gmail.com,,,
+changingivan,changingivan@gmail.com,gmail.com,,,
+channerduan01,channerduan@gmail.com,gmail.com,,,
+chaoyuaw,milton0221@gmail.com,gmail.com,,,
+chenjx1005,chenjx1005@gmail.com,gmail.com,,,
+chenxu31,chenxu31@gmail.com,gmail.com,,,
+chenzhuo8804,chenzhuo8804@gmail.com,gmail.com,,,
+cheshirecats,curiouswall@gmail.com,gmail.com,,,
+chimengxian,chimengxian@gmail.com,gmail.com,,,
+clcarwin,clcarwin@gmail.com,gmail.com,,,
+cloudhan,heliumhgy@gmail.com,gmail.com,,,
+Cloudyrie,cloudyrie@gmail.com,gmail.com,,,
+CNevd,wangyalong20@gmail.com,gmail.com,,,
+CodePothunter,wuxueyang94@gmail.com,gmail.com,,,
+cometyang,cometyang@gmail.com,gmail.com,,,
+cyrusmvahid,cyrusmvahid@gmail.com,gmail.com,,,
+dangweili,dangweili@gmail.com,gmail.com,,,
+danielgordon10,danielgordon10@gmail.com,gmail.com,,,
+danimateos,dmateos.sanmartin@gmail.com,gmail.com,,,
+darrylbobo,darrylbobo@gmail.com,gmail.com,,,
+dashaub,dashaub@gmail.com,gmail.com,,,
+divfor,divfor@gmail.com,gmail.com,,,
+dleen,daleen@gmail.com,gmail.com,,,
+dtmoodie,dtmoodie@gmail.com,gmail.com,,,
+Earthson,earthson.lu@gmail.com,gmail.com,,,
+EasonD3,lxduan@gmail.com,gmail.com,,,
+edmBernard,bernard.erwan@gmail.com,gmail.com,,,
+eldercrow,eldercrow@gmail.com,gmail.com,,,
+ernestbofill,nest.u333@gmail.com,gmail.com,,,
+facundoq,facundoq@gmail.com,gmail.com,,,
+fanlu,fanlu7311@gmail.com,gmail.com,,,
+FCInter,feng.c.peng@gmail.com,gmail.com,,,
+fedorzh,teodor.mz@gmail.com,gmail.com,,,
+fengshikun,fengxiaoxiaokun@gmail.com,gmail.com,,,
+firearasi,chengyanslnc@gmail.com,gmail.com,,,
+flash1293,flash1293@gmail.com,gmail.com,,,
+forcecore,ssanzing@gmail.com,gmail.com,,,
+fr407041,fr407041@gmail.com,gmail.com,,,
+FreemanX,gzgyxpf@gmail.com,gmail.com,,,
+fukatani,nannyakannya@gmail.com,gmail.com,,,
+fullfanta,isaac.j.shin@gmail.com,gmail.com,,,
+gajop,gajo01@gmail.com,gmail.com,,,
+gary30404,gary30404@gmail.com,gmail.com,,,
+gengyifeng,gengyifeng@gmail.com,gmail.com,,,
+gleery,joehust@gmail.com,gmail.com,,,
+GMarzinotto,gabriel.marzinotto@gmail.com,gmail.com,,,
+gmyofustc,gmyofustc@gmail.com,gmail.com,,,
+gnujimmik,mijung.kim.2010@gmail.com,gmail.com,,,
+Godricly,godricly.li@gmail.com,gmail.com,,,
+gosha1128,george.williams@gmail.com,gmail.com,,,
+gramce,gugramce@gmail.com,gmail.com,,,
+great-thoughts,g00006931@gmail.com,gmail.com,,,
+GreenKing,xianyanlin@gmail.com,gmail.com,,,
+hack1nt0,jealousing@gmail.com,gmail.com,,,
+haimeh,haimehs@gmail.com,gmail.com,,,
+happywu,happywunaiping@gmail.com,gmail.com,,,
+harouwu,harold.wuym@gmail.com,gmail.com,,,
+harryprince,7harryprince@gmail.com,gmail.com,,,
+hbkunn,hbiseeu@gmail.com,gmail.com,,,
+hbkunn,hbiseeu@gmail.com,gmail.com,,,
+hbkunn,hbiseeu@gmail.com,gmail.com,,,
+hbkunn,hbiseeu@gmail.com,gmail.com,,,
+hengck23,hengcherkeng235@gmail.com,gmail.com,,,
+hjchen2,chenhoujiangcug@gmail.com,gmail.com,,,
+hjk41,chuntao.hong@gmail.com,gmail.com,,,
+horsepurve,horsepurve@gmail.com,gmail.com,,,
+howard0su,howard0su@gmail.com,gmail.com,,,
+howardlinus,haolin.us@gmail.com,gmail.com,,,
+HuitingLiu,liuwaiting@gmail.com,gmail.com,,,
+hujunyao,huzhongshan@gmail.com,gmail.com,,,
+humeafo,humeafo@gmail.com,gmail.com,,,
+ianxxiao,ian.xxiao@gmail.com,gmail.com,,,
+ieee8023,jcccnet.cl@gmail.com,gmail.com,,,
+iluvatar593,iluvatar593@gmail.com,gmail.com,,,
+indhub,indhubharathi@gmail.com,gmail.com,,,
+ironyoung,ironyoung2012@gmail.com,gmail.com,,,
+jbcdnr,jb.cdnr@gmail.com,gmail.com,,,
+jennyzhang0215,jennyzhang0215@gmail.com,gmail.com,,,
+jeremiedb,nimus44@gmail.com,gmail.com,,,
+jeremiedb,jeremie.desgagne.bouchard@gmail.com,gmail.com,,,
+Jerryzcn,jerryzh.cn@gmail.com,gmail.com,,,
+jimxinbo,jimxinbo@gmail.com,gmail.com,,,
+jiumem,jiumem@gmail.com,gmail.com,,,
+jmerkow,jmerkow@gmail.com,gmail.com,,,
+jmschrei,jmschreiber91@gmail.com,gmail.com,,,
+jonasrla,jonasrla@gmail.com,gmail.com,,,
+jonbakerfish,jonbakerfish@gmail.com,gmail.com,,,
+JonBoyleCoding,jonboyle87@gmail.com,gmail.com,,,
+jostep,jostep90@gmail.com,gmail.com,,,
+jspisak,spisakjo@gmail.com,gmail.com,,,
+jsusskin,jmsusskind@gmail.com,gmail.com,,,
+k-hashimoto,kimiaki.hashi@gmail.com,gmail.com,,,
+kandycs,kandy.cs@gmail.com,gmail.com,,,
+karishmamalkan,karishma.malkan@gmail.com,gmail.com,,,
+kate-crosby,kate.crosby@gmail.com,gmail.com,,,
+Keiku,kuroyanagi.keiichi@gmail.com,gmail.com,,,
+kevinthesun,kevinthesunwy@gmail.com,gmail.com,,,
+kice,wslikerqs@gmail.com,gmail.com,,,
+kitman0804,kitman0804@gmail.com,gmail.com,,,
+kj-ki,kj.ki.jp@gmail.com,gmail.com,,,
+kperkins411,kperkins411@gmail.com,gmail.com,,,
+krosaen,krosaen@gmail.com,gmail.com,,,
+ksofiyuk,cosionix@gmail.com,gmail.com,,,
+ksofiyuk,sofiyuk@gmail.com,gmail.com,,,
+lancerts,tangshao28@gmail.com,gmail.com,,,
+larroy,pedro.larroy@gmail.com,gmail.com,,,
+larroy,pedro.larroy.lists@gmail.com,gmail.com,,,
+lazyparser,lazyparser@gmail.com,gmail.com,,,
+leotam,lk.tam1@gmail.com,gmail.com,,,
+LiamZhuuu,jiaxuzhu92@gmail.com,gmail.com,,,
+lightingghost,zhenp3ngzhou@gmail.com,gmail.com,,,
+lincolnBush,ynylincolncam@gmail.com,gmail.com,,,
+linnanwang,wangnan318@gmail.com,gmail.com,,,
+littleDing,waigi.ding@gmail.com,gmail.com,,,
+liuyadong,liuyadong828@gmail.com,gmail.com,,,
+loofahcus,loof.a.hcus@gmail.com,gmail.com,,,
+lorismichel,loris.michel@gmail.com,gmail.com,,,
+Lorrainexun,zhaoxunzx2010@gmail.com,gmail.com,,,
+lx75249,yakumolx@gmail.com,gmail.com,,,
+lxn2,nguyenlyx@gmail.com,gmail.com,,,
+lygstate,luoyonggang@gmail.com,gmail.com,,,
+lzx1413,lzx1444@gmail.com,gmail.com,,,
+madcarrot,8383zhe@gmail.com,gmail.com,,,
+magic282,magic282sub@gmail.com,gmail.com,,,
+malhotraa,ash6320@gmail.com,gmail.com,,,
+mangos47,ak47wow@gmail.com,gmail.com,,,
+martinbel,mbtangotan@gmail.com,gmail.com,,,
+max0x,zhifei.d@gmail.com,gmail.com,,,
+mcxkarakoc,mucahitkarakoc@gmail.com,gmail.com,,,
+minazou,minaz0723@gmail.com,gmail.com,,,
+moontails,dragontransformer@gmail.com,gmail.com,,,
+motypas,tom.aspy@gmail.com,gmail.com,,,
+moveforever,zhengzhongyi0321@gmail.com,gmail.com,,,
+MrPig,mailofzdx@gmail.com,gmail.com,,,
+Mrugankakarte,mrugankakarte13@gmail.com,gmail.com,,,
+mzmssg,mzmssg@gmail.com,gmail.com,,,
+neodooth,neodooth@gmail.com,gmail.com,,,
+nikrao,nikhilrao86@gmail.com,gmail.com,,,
+NiranjanMudhiraj,niranjan.mudhiraj@gmail.com,gmail.com,,,
+nirbenz,nir.benz@gmail.com,gmail.com,,,
+nitnelave,valentin.tolmer@gmail.com,gmail.com,,,
+nitnelave,nitnelave1@gmail.com,gmail.com,,,
+nmweizi,nmweizi@gmail.com,gmail.com,,,
+nswamy,mn.naveen@gmail.com,gmail.com,,,
+oneengineer,xchen.dev@gmail.com,gmail.com,,,
+oyzh,oyzh1992@gmail.com,gmail.com,,,
+pallashadow,xixibaigao@gmail.com,gmail.com,,,
+peterzcc,peterzengcc@gmail.com,gmail.com,,,
+pevnak,pevnak@gmail.com,gmail.com,,,
+phunterlau,phunter.lau@gmail.com,gmail.com,,,
+pineking,liuqs.ustc@gmail.com,gmail.com,,,
+Piyush3dB,mrsinghpiyush@gmail.com,gmail.com,,,
+pjpan,immortalness@gmail.com,gmail.com,,,
+pqn,prem.q.nair@gmail.com,gmail.com,,,
+pranasblk,pranasblk@gmail.com,gmail.com,,,
+precedenceguo,guojian710@gmail.com,gmail.com,,,
+predict-r,goodmansasha@gmail.com,gmail.com,,,
+prokope3,prokope3@gmail.com,gmail.com,,,
+Puriney,youryanyun@gmail.com,gmail.com,,,
+pyd1data,pdodin@gmail.com,gmail.com,,,
+qcl6355,qcl6355@gmail.com,gmail.com,,,
+qiaohaijun,qiaohaijun@gmail.com,gmail.com,,,
+qingswu,qqsongzi@gmail.com,gmail.com,,,
+quanzongfeng,qzfnihao@gmail.com,gmail.com,,,
+Quares,kamil.kosinski@gmail.com,gmail.com,,,
+quocnle,quocnle@gmail.com,gmail.com,,,
+Rafel-Mou,lichao.mou@gmail.com,gmail.com,,,
+reminisce,wujun.nju@gmail.com,gmail.com,,,
+revilokeb,revilokeb@gmail.com,gmail.com,,,
+rfarouni,rfarouni@gmail.com,gmail.com,,,
+rflai,renfu.lai@gmail.com,gmail.com,,,
+rhythm9229,indialove.ridam@gmail.com,gmail.com,,,
+RishabGargeya,rishab.gargeya@gmail.com,gmail.com,,,
+robert604,robtemper@gmail.com,gmail.com,,,
+RogerBorras,roger.borras@gmail.com,gmail.com,,,
+rorschachhb,rorschachhb@gmail.com,gmail.com,,,
+Roshrini,roshaninagmote2@gmail.com,gmail.com,,,
+rz1988,ruanzhi2008@gmail.com,gmail.com,,,
+saicoco,gjj0816@gmail.com,gmail.com,,,
+sampathchanda,sunny.sam369@gmail.com,gmail.com,,,
+saonim,sayani.mookherjee@gmail.com,gmail.com,,,
+saustar,saustar@gmail.com,gmail.com,,,
+seuriously,seuriously@gmail.com,gmail.com,,,
+seusofthd,seusofthd@gmail.com,gmail.com,,,
+shadowleaves,shadowleaves@gmail.com,gmail.com,,,
+shahsarick,shahsarick@gmail.com,gmail.com,,,
+ShawnWongMILab,shawnwongmilab@gmail.com,gmail.com,,,
+ShawnXuan,xiexuanx2@gmail.com,gmail.com,,,
+shendl1978,shendl1978@gmail.com,gmail.com,,,
+shivarajugowda,shivaraju.gowda@gmail.com,gmail.com,,,
+shuangjiexu,shuangjiexu@gmail.com,gmail.com,,,
+shuokay,shuokay@gmail.com,gmail.com,,,
+skrish13,skrish1113@gmail.com,gmail.com,,,
+skywalkerytx,skywalkerytx@gmail.com,gmail.com,,,
+skywayoo,dorgonway@gmail.com,gmail.com,,,
+sodabeta7,sodabeta7@gmail.com,gmail.com,,,
+Soonhwan-Kwon,soouee@gmail.com,gmail.com,,,
+statist-bhfz,ogurtsov.a.b@gmail.com,gmail.com,,,
+sumethy,sumeth.yuenyong@gmail.com,gmail.com,,,
+swlsw,soonwoong.lee@gmail.com,gmail.com,,,
+tanger830,tanger830@gmail.com,gmail.com,,,
+taras-sereda,taras.y.sereda@gmail.com,gmail.com,,,
+tawnkramer,tawnkramer@gmail.com,gmail.com,,,
+tdomhan,tdomhan@gmail.com,gmail.com,,,
+Techro-Raj,ashwinjey@gmail.com,gmail.com,,,
+tengpeng,josephtengpeng@gmail.com,gmail.com,,,
+terrytangyuan,terrytangyuan@gmail.com,gmail.com,,,
+thyu,thyu413@gmail.com,gmail.com,,,
+titicaca,fangzhou.sjtu@gmail.com,gmail.com,,,
+tjuzhao111,tjuzhao111@gmail.com,gmail.com,,,
+tmatas,matassini.tommaso@gmail.com,gmail.com,,,
+topepo,mxkuhn@gmail.com,gmail.com,,,
+TseSteven,tsestevenhk@gmail.com,gmail.com,,,
+twtygqyy,twtygqyy@gmail.com,gmail.com,,,
+universewill,universe.will@gmail.com,gmail.com,,,
+vcodreanu,balos.tza@gmail.com,gmail.com,,,
+venkateshappea,venkatesh.appea@gmail.com,gmail.com,,,
+Vesnica,vesnica.wisher@gmail.com,gmail.com,,,
+wac81,wuanch@gmail.com,gmail.com,,,
+wangdelp,wangdelp@gmail.com,gmail.com,,,
+WarBean,zhhuab123456@gmail.com,gmail.com,,,
+wave-electron,ashleyjoyce72@gmail.com,gmail.com,,,
+weihaoxie,weihaoxie2014@gmail.com,gmail.com,,,
+weishengchong,ws.chong.sg@gmail.com,gmail.com,,,
+wguo68,wguo68@gmail.com,gmail.com,,,
+winstywang,winsty@gmail.com,gmail.com,,,
+woodthom2,woodthom@gmail.com,gmail.com,,,
+wsstriving,wsstriving@gmail.com,gmail.com,,,
+wwkong,wwkong92@gmail.com,gmail.com,,,
+xgastaldi,xavier.gastaldi@gmail.com,gmail.com,,,
+XHUJOY,xhujoy@gmail.com,gmail.com,,,
+Xiaoming-Zhao,xiaoming.zhao9@gmail.com,gmail.com,,,
+xmchen1987,xmchen2009@gmail.com,gmail.com,,,
+xuancong84,xuancong84@gmail.com,gmail.com,,,
+yasserabbass,yasser.abbass@gmail.com,gmail.com,,,
+yech1990,yech1990@gmail.com,gmail.com,,,
+yingfeng,yingfeng.zhang@gmail.com,gmail.com,,,
+yourwanghao,yourwanghao@gmail.com,gmail.com,,,
+yudeshui,yippeehy@gmail.com,gmail.com,,,
+YuetianLiu,yuetian926@gmail.com,gmail.com,,,
+YujiOshima,yuji.oshima0x3fd@gmail.com,gmail.com,,,
+yuruofeifei,yuruofeifei@gmail.com,gmail.com,,,
+yxchng,yxchng@gmail.com,gmail.com,,,
+yxzf,shenchengguang@gmail.com,gmail.com,,,
+yzhang87,sjtuzy@gmail.com,gmail.com,,,
+zackchase,zachary.chase@gmail.com,gmail.com,,,
+zdwolfe,wolfe.zach@gmail.com,gmail.com,,,
+Zepan,zepanwucai@gmail.com,gmail.com,,,
+zhangchen-qinyinghua,sirnodin@gmail.com,gmail.com,,,
+zhanghan328,zhanghan131@gmail.com,gmail.com,,,
+zhangjiulong,xljiulong@gmail.com,gmail.com,,,
+zhiding,zhiding.sh@gmail.com,gmail.com,,,
+zhoubinxyz,zhoubinxyz@gmail.com,gmail.com,,,
+zhugejun,gejun.anderson@gmail.com,gmail.com,,,
+ZiJianZhao,zhouqizhaozijian@gmail.com,gmail.com,,,
+ZiyueHuang,zyhuang94@gmail.com,gmail.com,,,
+Zlinki,danielderoux@gmail.com,gmail.com,,,
+dashaub,davidshaub@gmx.com,gmx.com,,,
+bwilbertz,benedikt.wilbertz@gmx.de,gmx.de,,,
+achao2013,chao_jichao@hotmail.com,hotmail.com,,,
+animebing,yanbing_dong@hotmail.com,hotmail.com,,,
+asmith26,andrew_smith_92@hotmail.com,hotmail.com,,,
+bachml,ghzeng.cs@hotmail.com,hotmail.com,,,
+ChenFengAndy,hicf@hotmail.com,hotmail.com,,,
+ChristianEschen,christian_eschen@hotmail.com,hotmail.com,,,
+cloudygoose,htx_2006@hotmail.com,hotmail.com,,,
+DamonDeng,dengmingxuan@hotmail.com,hotmail.com,,,
+danimateos,mateosff@hotmail.com,hotmail.com,,,
+dmandreev,dmandreev@hotmail.com,hotmail.com,,,
+fengshikun,fengxiaoxiaokun@hotmail.com,hotmail.com,,,
+GeorgeXia1828,xiajizhong114@hotmail.com,hotmail.com,,,
+hwu84,wuhaozhen@hotmail.com,hotmail.com,,,
+KeithYin,yinpenghhz@hotmail.com,hotmail.com,,,
+kingder,lwc626@hotmail.com,hotmail.com,,,
+lasandcris,lrikker@hotmail.com,hotmail.com,,,
+melody-rain,xiah_sunny@hotmail.com,hotmail.com,,,
+mz24cn,mz24cn@hotmail.com,hotmail.com,,,
+qinhui99,qinhui99@hotmail.com,hotmail.com,,,
+rajafan,raja8885@hotmail.com,hotmail.com,,,
+Superhzf,superhzf@hotmail.com,hotmail.com,,,
+swaak,waqas.akhter@hotmail.com,hotmail.com,,,
+terrychenism,hahakuku@hotmail.com,hotmail.com,,,
+titicaca,fangzhou.yang@hotmail.com,hotmail.com,,,
+XD-DENG,xd_deng@hotmail.com,hotmail.com,,,
+Yunrui,mylpis@hotmail.com,hotmail.com,,,
+cisou98,thecissou98@hotmail.fr,hotmail.fr,,,
+l4mun,lamun56@hotmail.fr,hotmail.fr,,,
+blazerygy,gyye@hust.edu.cn,hust.edu.cn,,,
+tuonion,yangsongzhang@hust.edu.cn,hust.edu.cn,,,
+nichongjia,nicj@i2r.a-star.edu.sg,i2r.a-star.edu.sg,,,
+dytmas,shuchengxun@icloud.com,icloud.com,,,
+fangyizhang,zfy809402339@icloud.com,icloud.com,,,
+jli05,jli05@icloud.com,icloud.com,,,
+Lchiffon,chiffonlang@icloud.com,icloud.com,,,
+ieee8023,joecohen@ieee.org,ieee.org,,,
+Darwin2011,yan.dai@intel.com,intel.com,,,
+glingyan,lingyan.guo@intel.com,intel.com,,,
+zackchase,ubuntu@ip-10-149-98-51.ec2.internal,ip-10-149-98-51.ec2.internal,,,
+ieee8023,joseph@josephpcohen.com,josephpcohen.com,,,
+oura-fj,oura.junki@jp.fujitsu.com,jp.fujitsu.com,,,
+Kaixhin,design@kaixhin.com,kaixhin.com,,,
+colbec,colbec@kingston.net,kingston.net,,,
+ljie-PI,jay@lab-440.com,lab-440.com,,,
+FreemanX,12251054@life.hkbu.edu.hk,life.hkbu.edu.hk,,,
+Strateus,loknar@list.ru,list.ru,,,
+dianyancao,dianyancao@live.cn,live.cn,,,
+lzx1413,lzx1413@live.cn,live.cn,,,
+linkerlin,linker.lin@live.com,live.com,,,
+5urprise,darex@live.de,live.de,,,
+lx75249,lx75249@love.com,love.com,,,
+boofhead,robinintheuk@mac.com,mac.com,,,
+windelu,201421210028@mail.bnu.edu.cn,mail.bnu.edu.cn,,,
+alexionby,alexionon@mail.ru,mail.ru,,,
+Piyush3dB,mf08ps1@mail.wbs.ac.uk,mail.wbs.ac.uk,,,
+ly-atdawn,leiyang16@mails.jlu.edu.cn,mails.jlu.edu.cn,,,
+CitronMan,liuxg16@mails.tsinghua.edu.cn,mails.tsinghua.edu.cn,,,
+KangHsi,shikang15@mails.ucas.ac.cn,mails.ucas.ac.cn,,,
+kyocen,tangcenxuan14@mails.ucas.ac.cn,mails.ucas.ac.cn,,,
+XuBurning,xuboning15@mails.ucas.ac.cn,mails.ucas.ac.cn,,,
+linkerlin,linker.lin@me.com,me.com,,,
+yitang,yi.tang.uk@me.com,me.com,,,
+yzhang87,yzhang87@mit.edu,mit.edu,,,
+wellner,wellner@mitre.org,mitre.org,,,
+DCYN,davidchen5@msn.com,msn.com,,,
+twtygqyy,xujiu@msn.com,msn.com,,,
+jcbsv,jacob@nephics.com,nephics.com,,,
+jonathanponce,r03922147@ntu.edu.tw,ntu.edu.tw,,,
+leotam,leot@nvidia.com,nvidia.com,,,
+GaiYu0,yg1246@nyu.edu,nyu.edu,,,
+VoVAllen,jz1749@nyu.edu,nyu.edu,,,
+tornadomeet,wuwei@orbbec.com,orbbec.com,,,
+allenlverson,zengyan03@outlook.com,outlook.com,,,
+amitkb3,amit.bothra@outlook.com,outlook.com,,,
+GrindstoneLZX,lizengxi2010@outlook.com,outlook.com,,,
+ljie-PI,ljie@outlook.com,outlook.com,,,
+martinbel,belmartin@outlook.com,outlook.com,,,
+metorm,metorm@outlook.com,outlook.com,,,
+Primus-zhao,zhao4699680@outlook.com,outlook.com,,,
+zeakey,zeakey@outlook.com,outlook.com,,,
+BingzheWu,1200010666@pku.edu.cn,pku.edu.cn,,,
+harouwu,yiming.wu@pku.edu.cn,pku.edu.cn,,,
+zhaw,zhaw@pku.edu.cn,pku.edu.cn,,,
+fullfanta,jjshin@postech.ac.kr,postech.ac.kr,,,
+zdwolfe,zdw5010@psu.edu,psu.edu,,,
+10132510143cai,1067694145@qq.com,qq.com,,,
+501177639,501177639@qq.com,qq.com,,,
+91Eric,849931616@qq.com,qq.com,,,
+AihahaFox,644015664@qq.com,qq.com,,,
+akturtle,258859059@qq.com,qq.com,,,
+albertyou2,13800497@qq.com,qq.com,,,
+ArtanisCV,283186127@qq.com,qq.com,,,
+Aspirinkb,673704403@qq.com,qq.com,,,
+attitudechunfeng,459093653@qq.com,qq.com,,,
+back2yes,gmbeans@qq.com,qq.com,,,
+blazerygy,386921016@qq.com,qq.com,,,
+BobLiu20,baifang20@qq.com,qq.com,,,
+brackwang,340160653@qq.com,qq.com,,,
+chasonlee,329546652@qq.com,qq.com,,,
+Duum,1035396480@qq.com,qq.com,,,
+gmyofustc,365526542@qq.com,qq.com,,,
+guotong1988,779222056@qq.com,qq.com,,,
+JaggerYoung,854659608@qq.com,qq.com,,,
+Johnqczhang,qinchuan.zhang@qq.com,qq.com,,,
+kaleidoscopical,99683161@qq.com,qq.com,,,
+KangHsi,sk_5065@qq.com,qq.com,,,
+KeyKy,370846270@qq.com,qq.com,,,
+kongjiellx,623239411@qq.com,qq.com,,,
+lincoln2010,1441153761@qq.com,qq.com,,,
+lji72,1498487239@qq.com,qq.com,,,
+louiskoo520,1766659035@qq.com,qq.com,,,
+louiskoo520,419655660@qq.com,qq.com,,,
+luoruisichuan,634034864@qq.com,qq.com,,,
+Maofei,quemaofei@qq.com,qq.com,,,
+mhzdlm,mhzdlm@qq.com,qq.com,,,
+nerddd,1119702379@qq.com,qq.com,,,
+PetroWu,826074356@qq.com,qq.com,,,
+PhanTask,344042096@qq.com,qq.com,,,
+PoisonBOx,yujia.tang4@qq.com,qq.com,,,
+poorfriend,798638754@qq.com,qq.com,,,
+R1ncy,362205285@qq.com,qq.com,,,
+Seanlinx,515364970@qq.com,qq.com,,,
+shallyan,yanhust@qq.com,qq.com,,,
+sofiawu,121049488@qq.com,qq.com,,,
+SpecialM2580,linyeglasses@qq.com,qq.com,,,
+srand99,842396273@qq.com,qq.com,,,
+szad670401,455501914@qq.com,qq.com,,,
+T800GHB,t800ghb@qq.com,qq.com,,,
+T800GHB,772918850@qq.com,qq.com,,,
+thesby,1099361041@qq.com,qq.com,,,
+tornadomeet,wuweigreat@qq.com,qq.com,,,
+vsooda,liushouda@qq.com,qq.com,,,
+wangdelp,867072921@qq.com,qq.com,,,
+WarBean,warbean@qq.com,qq.com,,,
+windelu,2551553092@qq.com,qq.com,,,
+wshenx,812413200@qq.com,qq.com,,,
+wsybupt,526482656@qq.com,qq.com,,,
+xiaomaxiao,514358041@qq.com,qq.com,,,
+yuantangliang,740367190@qq.com,qq.com,,,
+ZhaoJianghua,zhaojianghua1990@qq.com,qq.com,,,
+ZiJianZhao,1428364105@qq.com,qq.com,,,
+Zondabb,404925347@qq.com,qq.com,,,
+zt706,564677762@qq.com,qq.com,,,
+zxfzqf,1279879372@qq.com,qq.com,,,
+taras-sereda,taras.sereda@ring.com,ring.com,,,
+morningpig917,zhuchen@shanghaitech.edu.cn,shanghaitech.edu.cn,,,
+Lchiffon,langdawei@shu.edu.cn,shu.edu.cn,,,
+liuzhi136,liuzhi7936@sina.cn,sina.cn,,,
+IvyGongoogle,20gon@sina.com,sina.com,,,
+kernel8liang,kernel8liang@sina.com,sina.com,,,
+licstar,licstar@sina.com,sina.com,,,
+QuantumLiu,liuyiliang100@sina.com,sina.com,,,
+happygds,dmlab_gds@sjtu.edu.cn,sjtu.edu.cn,,,
+SJTUzhanglj,z451155064@sjtu.edu.cn,sjtu.edu.cn,,,
+wsstriving,feixiang121976@sjtu.edu.cn,sjtu.edu.cn,,,
+shallyan,xiaoyan2015@software.ict.ac.cn,software.ict.ac.cn,,,
+pjpan,wpppj@sohu.com,sohu.com,,,
+vsooda,23020111153073@stu.xmu.edu.cn,stu.xmu.edu.cn,,,
+taras-sereda,taras@syncwords.com,syncwords.com,,,
+SlipknotTN,micheletoni87@tin.it,tin.it,,,
+Kaixhin,karulkumaran@twitter.com,twitter.com,,,
+uzhao,uzhao@ucdavis.edu,ucdavis.edu,,,
+ForoughA,farabsha@uci.edu,uci.edu,,,
+ufoym,a@ufoym.com,ufoym.com,,,
+jrosebr1,jrosebr1@umbc.edu,umbc.edu,,,
+umichyiwan,yiwan@umich.edu,umich.edu,,,
+pineking,liuqingsong@unisound.com,unisound.com,,,
+tmquan,quantm@unist.ac.kr,unist.ac.kr,,,
+terrytangyuan,terry.tang@uptake.com,uptake.com,,,
+qianguih,qianguih@usc.edu,usc.edu,,,
+5urprise,5urprise@users.noreply.github.com,users.noreply.github.com,,,
+abuccts,abuccts@users.noreply.github.com,users.noreply.github.com,,,
+akturtle,akturtle@users.noreply.github.com,users.noreply.github.com,,,
+andremoeller,andremoeller@users.noreply.github.com,users.noreply.github.com,,,
+asmith26,asmith26@users.noreply.github.com,users.noreply.github.com,,,
+back2yes,back2yes@users.noreply.github.com,users.noreply.github.com,,,
+caprice-j,caprice-j@users.noreply.github.com,users.noreply.github.com,,,
+CarlosUziel,carlosuziel@users.noreply.github.com,users.noreply.github.com,,,
+CNevd,cnevd@users.noreply.github.com,users.noreply.github.com,,,
+danimateos,danimateos@users.noreply.github.com,users.noreply.github.com,,,
+dashaub,dashaub@users.noreply.github.com,users.noreply.github.com,,,
+data-compute-geek,data-compute-geek@users.noreply.github.com,users.noreply.github.com,,,
+DW9363,dw9363@users.noreply.github.com,users.noreply.github.com,,,
+edmBernard,edmbernard@users.noreply.github.com,users.noreply.github.com,,,
+facundoq,facundoq@users.noreply.github.com,users.noreply.github.com,,,
+fhieber,fhieber@users.noreply.github.com,users.noreply.github.com,,,
+FreemanX,freemanx@users.noreply.github.com,users.noreply.github.com,,,
+futurely,futurely@users.noreply.github.com,users.noreply.github.com,,,
+great-thoughts,great-thoughts@users.noreply.github.com,users.noreply.github.com,,,
+ikvision,ikvision@users.noreply.github.com,users.noreply.github.com,,,
+jennyzhang0215,jennyzhang0215@users.noreply.github.com,users.noreply.github.com,,,
+jeremiedb,jeremiedb@users.noreply.github.com,users.noreply.github.com,,,
+jli05,jli05@users.noreply.github.com,users.noreply.github.com,,,
+jostep,jostep@users.noreply.github.com,users.noreply.github.com,,,
+Kaixhin,kaixhin@users.noreply.github.com,users.noreply.github.com,,,
+leotam,leotam@users.noreply.github.com,users.noreply.github.com,,,
+lsy17096535,lsy17096535@users.noreply.github.com,users.noreply.github.com,,,
+lxn2,lxn2@users.noreply.github.com,users.noreply.github.com,,,
+ly-atdawn,ly-atdawn@users.noreply.github.com,users.noreply.github.com,,,
+magic282,magic282@users.noreply.github.com,users.noreply.github.com,,,
+marugari,marugari@users.noreply.github.com,users.noreply.github.com,,,
+matt32106,matt32106@users.noreply.github.com,users.noreply.github.com,,,
+max0x,max0x@users.noreply.github.com,users.noreply.github.com,,,
+moontails,moontails@users.noreply.github.com,users.noreply.github.com,,,
+moveforever,moveforever@users.noreply.github.com,users.noreply.github.com,,,
+NiranjanMudhiraj,niranjanmudhiraj@users.noreply.github.com,users.noreply.github.com,,,
+oyzh,oyzh@users.noreply.github.com,users.noreply.github.com,,,
+precedenceguo,precedenceguo@users.noreply.github.com,users.noreply.github.com,,,
+Puriney,puriney@users.noreply.github.com,users.noreply.github.com,,,
+qiaohaijun,qiaohaijun@users.noreply.github.com,users.noreply.github.com,,,
+realbns2008,realbns2008@users.noreply.github.com,users.noreply.github.com,,,
+revilokeb,revilokeb@users.noreply.github.com,users.noreply.github.com,,,
+rorschachhb,rorschachhb@users.noreply.github.com,users.noreply.github.com,,,
+shivarajugowda,shivarajugowda@users.noreply.github.com,users.noreply.github.com,,,
+sifmelcara,sifmelcara@users.noreply.github.com,users.noreply.github.com,,,
+skrish13,skrish13@users.noreply.github.com,users.noreply.github.com,,,
+Superhzf,superhzf@users.noreply.github.com,users.noreply.github.com,,,
+szha,szha@users.noreply.github.com,users.noreply.github.com,,,
+szilard,szilard@users.noreply.github.com,users.noreply.github.com,,,
+tengpeng,tengpeng@users.noreply.github.com,users.noreply.github.com,,,
+terrytangyuan,terrytangyuan@users.noreply.github.com,users.noreply.github.com,,,
+tornadomeet,tornadomeet@users.noreply.github.com,users.noreply.github.com,,,
+universewill,universewill@users.noreply.github.com,users.noreply.github.com,,,
+Vesnica,vesnica@users.noreply.github.com,users.noreply.github.com,,,
+VoVAllen,vovallen@users.noreply.github.com,users.noreply.github.com,,,
+whaozl,whaozl@users.noreply.github.com,users.noreply.github.com,,,
+wshenx,wshenx@users.noreply.github.com,users.noreply.github.com,,,
+XD-DENG,xd-deng@users.noreply.github.com,users.noreply.github.com,,,
+zdwolfe,zdwolfe@users.noreply.github.com,users.noreply.github.com,,,
+zedomel,zedomel@users.noreply.github.com,users.noreply.github.com,,,
+dleen,dleen@uw.edu,uw.edu,,,
+lxn2,lxn2@uw.edu,uw.edu,,,
+edmBernard,erwan.bernard@wassa.fr,wassa.fr,,,
+5urprise,5urprise@web.de,web.de,,,
+Puriney,yanyun@whu.edu.cn,whu.edu.cn,,,
+matt32106,git.m7@xoxy.net,xoxy.net,,,
+xbkong,xbkong@yahoo.ca,yahoo.ca,,,
+narayaba,bala_ji21@yahoo.com,yahoo.com,,,
+Qunal,qunal2011@yahoo.in,yahoo.in,,,
+viswaraavi,viswaraavi@yahoo.in,yahoo.in,,,
+abuccts,xiongyf@yandex.com,yandex.com,,,
+fungtion,fungtion@yeah.net,yeah.net,,,
+yuzcccc,yuz@zju.edu.cn,zju.edu.cn,,,
+dushoufu,du.shoufu@zte.com.cn,zte.com.cn,,,
